@@ -1,3 +1,5 @@
+
+//How to find out if the given two strings are anagrams or not?
 import java.util.Arrays;
 
 public class IQ2 {
