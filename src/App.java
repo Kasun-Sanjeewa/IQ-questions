@@ -12,12 +12,12 @@ public class App {
             if (str.charAt(j) == reverseStr.charAt(j)) {
                 count = count + 1;
             } else {
-                System.out.println("THis is not Palindrome");
+                System.out.println("This is not Palindrome");
                 break;
             }
 
             if (str.length() == count) {
-                System.out.println("THis is Palindrome");
+                System.out.println("This is Palindrome");
             }
         }
         // ----------------------------------------------
